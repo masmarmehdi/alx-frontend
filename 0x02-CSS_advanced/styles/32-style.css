@@ -771,3 +771,7 @@ ul.row {
 .card-work:hover .card-title {
   opacity: 1;
 }
+
+.card-blog img {
+    object-fit: cover;
+}
